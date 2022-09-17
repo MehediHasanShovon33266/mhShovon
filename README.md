@@ -17,7 +17,6 @@ Favourite Quote: **"Stop acting so small.You are the entire universe in ecstatic
 <p align="center">
 <a href="https://www.linkedin.com/in/mehedi-hasan-shovon-799a3813a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mh-shovon" height="30" width="40" /></a>
 <a href="https://www.facebook.com/hasan.shovon.773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mehedi Hasan Shovon" height="30" width="40" /></a>
-//<a href="https://www.hackerrank.com/nibrajkhan123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nibrajkhan123" height="30" width="40" /></a>//
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,10 +30,10 @@ Favourite Quote: **"Stop acting so small.You are the entire universe in ecstatic
            </a>
            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </p>
 
-![Nibraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=NibrazKhan&theme=algolia&show_icons=true)
+![Shovon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mh-shovon&theme=algolia&show_icons=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NibrazKhan&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mh-shovon&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NibrazKhan)](https://github.com/NibrazKhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-shovon)](https://github.com/mh-shovon/mhShovon/edit/main/README.md)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nibrazkhan&label=Profile%20views&color=0e75b6&style=flat" alt="nibrazkhan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mh-shovon&label=Profile%20views&color=0e75b6&style=flat" alt="mh-shovon" /> </p>
